@@ -7,7 +7,7 @@ export default function WelcomePage() {
         <h1>Welcome to the ultimate fan site!</h1>
         <img
           className="main-img ui centered medium circular image"
-          src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+          src="https://react.semantic-ui.com/images/avatar/large/matthew.png"
           alt="rick"
         />
       </header>
